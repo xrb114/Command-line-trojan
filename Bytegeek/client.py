@@ -105,8 +105,8 @@ def start_client(encoded_ip, encoded_port):
             time.sleep(5)
 
 def main():
-    encoded_ip = 'Ynl0ZWdlZWsuaWN1'   # 服务器IP的Base64编码
-    encoded_port = 'Nzc4OA=='         # 端口的Base64编码
+    encoded_ip = 'you server IP base64'   # 服务器IP的Base64编码
+    encoded_port = 'you port base64'         # 端口的Base64编码
     start_client(encoded_ip, encoded_port)
 
 if __name__ == "__main__":
