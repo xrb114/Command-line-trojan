@@ -7,10 +7,9 @@ Command line trojan
 
 - 拥有截图功能
 
-![image.png](https://bytegeek.icu/static/img/a019bbcd25a2d1a4b43d1108543b4e11.image.webp)
+![image.png](https://github.com/xrb114/Command-line-trojan/blob/main/image.png)
 命令在连接后有提示，可以屏幕截图和调用摄像头
 
+![received_screenshot.jpg](https://github.com/xrb114/Command-line-trojan/blob/main/1bafdea80207047e4951ab1dfbfd347.png)
 
-![received_screenshot.jpg](https://bytegeek.icu/static/img/b4cca4ad33ea340e2e4f7daf48e45b63.received_screenshot.webp)
-
-![1bafdea80207047e4951ab1dfbfd347.png](https://bytegeek.icu/static/img/355db9511d0d3b5cbdfb208e8ccf93ab.1bafdea80207047e4951ab1dfbfd347.webp)
+![1bafdea80207047e4951ab1dfbfd347.png](https://github.com/xrb114/Command-line-trojan/blob/main/received_screenshot.jpg)
