@@ -1,4 +1,4 @@
-# Command-line-trojan
+# Command-line-telecommute
 Command line trojan
 - 这是一个 类似反向代理的程序，已经过部分检测，3/70 的被检测的概率，因为这个的逻辑十分的简单，都是正常操作，把文本传到客户端，然后客户端本地执行传过来的命令，所以说被检测到的比较少。
 ![image.png](https://bytegeek.icu/static/img/11b5a694baa2bd1a0d6626af0df4206e.image.webp)
